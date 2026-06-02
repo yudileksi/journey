@@ -74,7 +74,7 @@ def chat(user_message):
         
     else:
         print(response_message.content)
-        
+
 while True:
     print("Type q to quit")
     user_input = input("You: ")
